@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedComponent</string>
+    <string name="title_amodule">AModule</string>
+    <string name="title_bmodule">B Module</string>
+</resources>
